@@ -13,5 +13,5 @@ class AverageValue{
     }
 }
 
-const result = new AverageValue();
-console.log(result.average());
+const response = new AverageValue();
+console.log(response.average());
