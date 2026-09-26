@@ -16,3 +16,4 @@ result.oddeven(2);
 result.oddeven(5);
 result.oddeven(234);
 
+
