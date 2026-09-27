@@ -17,3 +17,4 @@ result.oddeven(5);
 result.oddeven(234);
 
 
+// I want to average value from a given array
