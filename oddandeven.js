@@ -18,3 +18,5 @@ result.oddeven(234);
 
 
 // I want to average value from a given array
+
+// I want to make a confltc with azmaeen
